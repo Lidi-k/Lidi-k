@@ -1,7 +1,7 @@
 <!-- Banner -->
 ![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Welcome%20to%20Lidi-k's%20GitHub!&fontSize=40&fontAlignY=35&animation=twinkling)
 
-# 👋 Hi, I'm Lk Abebe
+# 👋 Hi, I'm Lidya Kassahun
 🎓 MPH Student @ University of Georgia  
 🌍 Interested in Public Health Surveillance | Health Informatics | Global Health  
 💻 Skills: Python | SQL | SAS | R | Tableau | ArcGIS
@@ -10,8 +10,8 @@
 
 ## ⚡ About Me
 - 🌱 Currently learning **SAS, SQL, and Tableau** for public health data analysis  
-- 🧪 Building projects in **epidemiology & health informatics**  
-- 🎯 Goal: Become a **Public Health Data Analyst, Develop as a Health Program Coordinator, Surveillance Data Specialist**  
+- 🧪 Building projects in **epidemiology, health surveillance & informatics, health administration**  
+- 🎯 Goal: Become a **Public Health Data Analyst, Health Program Coordinator, Surveillance Data Specialist**  
 - 💡 Passion: Applying data, technology, and systems leadership to advance health equity and reduce disparities
 ---
 
